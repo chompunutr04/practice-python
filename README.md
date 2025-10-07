@@ -21,6 +21,3 @@ The aim is to strengthen foundational Python skills through hands-on coding in t
 - Standard library modules (os, sys, json, etc.)  
 - (If applicable) external libraries / frameworks  
 
-## 👤 Author
-**Chompunut Rueangrit**  
-Faculty of Informatics, Burapha University  
