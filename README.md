@@ -1,6 +1,6 @@
 # Practice Python
 
-![Project Preview] <img width="789" height="743" alt="practicePython" src="https://github.com/user-attachments/assets/49214873-6848-4789-8b6e-03dbdd156f5e" />
+<img width="400" height="300" alt="practicePython" src="https://github.com/user-attachments/assets/49214873-6848-4789-8b6e-03dbdd156f5e" />
 
 
 ## 📘 Overview
