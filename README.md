@@ -1,6 +1,7 @@
 # Practice Python
 
-![Project Preview]("C:\Users\pinky\DATA\สหกิจ\project\practicePython.png")
+![Project Preview] <img width="789" height="743" alt="practicePython" src="https://github.com/user-attachments/assets/49214873-6848-4789-8b6e-03dbdd156f5e" />
+
 
 ## 📘 Overview
 This repository contains various Python practice exercises and mini-projects developed as part of coursework or self-study.  
