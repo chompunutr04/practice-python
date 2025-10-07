@@ -1,7 +1,7 @@
 # Practice Python
-
-<img width="400" height="300" alt="practicePython" src="https://github.com/user-attachments/assets/49214873-6848-4789-8b6e-03dbdd156f5e" />
-
+<p align="center">
+<img width="500" height="400" alt="practicePython" src="https://github.com/user-attachments/assets/49214873-6848-4789-8b6e-03dbdd156f5e" />
+</p>
 
 ## 📘 Overview
 This repository contains various Python practice exercises and mini-projects developed as part of coursework or self-study.  
